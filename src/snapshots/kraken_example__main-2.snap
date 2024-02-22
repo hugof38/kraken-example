@@ -1,0 +1,5 @@
+---
+source: src/main.rs
+expression: resp.text().await.unwrap()
+---
+{"result":"error","error":"requiredArgumentMissing","serverTime":"2024-02-22T17:59:33.076Z"}

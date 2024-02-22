@@ -1,0 +1,12 @@
+---
+source: src/main.rs
+expression: order
+---
+{
+  "orderType": "lmt",
+  "symbol": "PI_XBTUSD",
+  "side": "buy",
+  "size": 1,
+  "limitPrice": 1.0,
+  "reduceOnly": "true"
+}
